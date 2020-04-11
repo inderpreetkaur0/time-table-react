@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+
+.events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.events .ant-badge-status {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  text-overflow: ellipsis;
+  font-size: 12px;
+}
+.notes-month {
+  text-align: center;
+  font-size: 28px;
+}
+.notes-month section {
+  font-size: 28px;
+}
+
+.site-page-header {
+  color : white;
+}
+
+.ant-page-header-heading {
+  width: 100%;
+  text-align: center;
+}
+
+.ant-page-header-heading-title {
+  display: contents;
+  float: left;
+  margin-bottom: 0;
+  padding-right: 12px;
+  color: white;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 32px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.ant-page-header-heading-sub-title {
+  float: left;
+  display: contents;
+  margin: 5px 0;
+  margin-right: 12px;
+  color: white;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: cursive;
+}
