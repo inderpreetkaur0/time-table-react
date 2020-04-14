@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/time-table-react/static/css/main.d90930cb.chunk.css",
+    "main.js": "/time-table-react/static/js/main.85becd2a.chunk.js",
+    "main.js.map": "/time-table-react/static/js/main.85becd2a.chunk.js.map",
+    "runtime-main.js": "/time-table-react/static/js/runtime-main.754aa69e.js",
+    "runtime-main.js.map": "/time-table-react/static/js/runtime-main.754aa69e.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/time-table-react/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.7651f536.chunk.js": "/time-table-react/static/js/2.7651f536.chunk.js",
+    "static/js/2.7651f536.chunk.js.map": "/time-table-react/static/js/2.7651f536.chunk.js.map",
+    "index.html": "/time-table-react/index.html",
+    "precache-manifest.a48ab92608561ea8abc60c4d68570399.js": "/time-table-react/precache-manifest.a48ab92608561ea8abc60c4d68570399.js",
+    "service-worker.js": "/time-table-react/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/time-table-react/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.d90930cb.chunk.css.map": "/time-table-react/static/css/main.d90930cb.chunk.css.map",
+    "static/js/2.7651f536.chunk.js.LICENSE.txt": "/time-table-react/static/js/2.7651f536.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.754aa69e.js",
+    "static/css/2.a43b59a1.chunk.css",
+    "static/js/2.7651f536.chunk.js",
+    "static/css/main.d90930cb.chunk.css",
+    "static/js/main.85becd2a.chunk.js"
+  ]
+}
