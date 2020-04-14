@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import 'antd/dist/antd.css';
 import './App.css';
-
+import moment from 'moment';
 import { Table, Input, InputNumber, Popconfirm, Form, Layout, Breadcrumb, PageHeader, DatePicker } from 'antd';
 
 const { Header, Content, Footer } = Layout;
@@ -227,7 +227,7 @@ function App() {
           <Breadcrumb.Item>Time Table</Breadcrumb.Item>
           <Breadcrumb.Item>Date</Breadcrumb.Item>
         </Breadcrumb>
-        <div><DatePicker/></div>
+        <div><DatePicker defaultValue={moment('2020-04-11', 'YYYY-MM-DD')}/></div>
         <div className="site-layout-background" style={{ padding: 24, minHeight: 380 }}>
           <EditableTable />
         </div>
